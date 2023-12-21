@@ -1,7 +1,7 @@
 # Classificador_de_Mensagens_Amazon
 
 
-![Amazon](Amazon.png)
+![Amazon](https://turbologo.com/articles/wp-content/uploads/2019/09/amazon-current-logo.png)
 
 
 O projeto em questão, trata-se do desenvolvimento de um classificador automático de mensagens na plataforma Amazon, o qual, baseado no conteúdo descrito na mensagem, o classificador toma a decisão de para onde encaminhar a mensagem.  Assim, a partir das palavras utilizadas em cada mensagem, o algoritimo tomará uma decisão acerca do local ao qual a mensagem será destinada. 
