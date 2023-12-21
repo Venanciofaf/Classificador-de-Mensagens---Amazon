@@ -1,3 +1,6 @@
-# Classificador-de-Mensagens---Amazon
+# Classificador_de_Mensagens_Amazon
 
-![Amazon](Amazon.jpg)
+![Amazon](Amazon.png)
+
+
+## Vsão Geral do Projeto 
