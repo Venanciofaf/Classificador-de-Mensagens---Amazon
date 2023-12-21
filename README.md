@@ -12,3 +12,18 @@ Nesse sentido, o projeto tem, como objetivo principal, os seguintes items:
 2. Utilização de metodologias para melhorar o desempenho do classificador de mensagens, baseado no funcionamento do modelo Naive-Bayes;
 
 
+## Participantes: 
+
+- Venâncio Freitas de Araújo Filho 
+- Wellington Rodrigues da Silva 
+
+## Professora: 
+- Maria Kelly Venezuela 
+
+## Referências 
+
+[Funcionamento do completo do modelo Naive-Bayes](https://arxiv.org/pdf/1410.5329.pdf)
+[Funcionamento do modelo Naive-Bayes por Monkey Learn](https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/)
+
+
+
