@@ -22,8 +22,8 @@ Nesse sentido, o projeto tem, como objetivo principal, os seguintes items:
 
 ## Referências 
 
-[Funcionamento do completo do modelo Naive-Bayes](https://arxiv.org/pdf/1410.5329.pdf)
-[Funcionamento do modelo Naive-Bayes por Monkey Learn](https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/)
+- [Funcionamento do completo do modelo Naive-Bayes](https://arxiv.org/pdf/1410.5329.pdf) 
+- [Funcionamento do modelo Naive-Bayes por Monkey Learn](https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/)
 
 
 
